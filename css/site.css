@@ -1,0 +1,32 @@
+#myModal {
+	width: 262px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+.modal-content {
+	width: 262px;
+}
+.modal-body {
+	margin-top: -15px;
+	margin-bottom: -15px;
+	visibility: hidden;
+	height: 280px;
+	position: relative;
+	padding: 0;
+}
+.modal-footer {
+	height: 65px;
+}
+._yl4, .fbPageBanner, #u_0_6 {
+	position: initial;
+}
+._yl8{
+	visibility: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+#u_0_3 {
+	opacity: 0.0;
+}
